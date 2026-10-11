@@ -1,8 +1,8 @@
 import pygame, sys
-from scripts.menu import Menu
-from scripts.game import Game
-from scripts.gameover import GameOver
-from scripts.settings import *
+from src.menu import Menu
+from src.game import Game
+from src.gameover import GameOver
+from src.settings import *
 
 class StartGame:
 

@@ -1,6 +1,6 @@
 import pygame
-from scripts.obj import Obj
-from scripts.settings import *
+from src.obj import Obj
+from src.settings import *
 
 
 class AnimatedBg:

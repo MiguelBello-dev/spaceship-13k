@@ -1,10 +1,10 @@
 import pygame
 import random
-from scripts.scene import Scene
-from scripts.obj import Obj
-from scripts.animatedbg import AnimatedBg
-from scripts.settings import *
-from scripts.text import Text
+from src.scene import Scene
+from src.obj import Obj
+from src.animatedbg import AnimatedBg
+from src.settings import *
+from src.text import Text
 
 
 class Game(Scene):
